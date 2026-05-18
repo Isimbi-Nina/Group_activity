@@ -1,0 +1,5 @@
+ls -la
+pwd
+mkdir my_folder
+cd my_folder
+echo "Hello"
