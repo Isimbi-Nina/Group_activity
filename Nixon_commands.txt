@@ -1,1 +1,11 @@
-Nixon {Grep, ls, mkdir, rm, mv}
+Nixon {grep, ls, pwd, cd, mkdir,
+ rmdir, rm, mv, cp, touch, cat,
+  less, head, tail, chmod, chown,
+   find, locate, awk, sed, sort,
+    uniq, wc, tar, gzip, gunzip,
+     unzip, ssh, scp, rsync, top,
+      htop, ps, kill, bg, fg, jobs,
+       systemctl, journalctl, df,
+        du, mount, umount, crontab,
+         curl, wget, nano, vi, echo, history,
+          alias, env, export, sudo, apt, yum, pacman}
