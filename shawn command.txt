@@ -1,0 +1,4 @@
+rmdir
+ls
+cd ..
+ls -l
